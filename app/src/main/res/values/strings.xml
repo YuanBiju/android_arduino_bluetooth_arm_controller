@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arm Controller</string>
+    <string name="step_size">1</string>
+    <string name="initial_value">0</string>
+    <string name="from_value">0</string>
+    <string name="to_value">180</string>
+    <string name="turn_on">Turn On</string>
+</resources>
